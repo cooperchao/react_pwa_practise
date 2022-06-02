@@ -1,8 +1,8 @@
 {
-  "name": "react_pwa",
+  "name": "react_pwa_practise",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://cooperchao.github.io/react_pwa",
+  "homepage": "https://cooperchao.github.io/react_pwa_practise",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -33,7 +33,7 @@
     "serve": "yarn build && serve -s build",
     "test": "react-scripts test",
     "predeploy": "yarn build",
-    "deploy": "gh-pages -d build -r git@github.com:cooperchao/react_pwa.git",
+    "deploy": "gh-pages -d build -r git@github.com:cooperchao/react_pwa_practise.git",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {

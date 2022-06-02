@@ -1,4 +1,4 @@
-# Getting Started with Create React App 123
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [making a progressive web app]. Implement PWA [Workbox](https://developers.google.com/web/tools/workbox).
 Base on [Setup PWA Workbox Webpack Plugin for React Application | Workbox Window | Precaching | Caching at runtime.][react-pwa-workbox-example]

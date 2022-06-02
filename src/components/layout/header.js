@@ -15,7 +15,7 @@ const Header = () => {
       <Nav />
       <div className="user-profile">
         <div className="user">
-          <div className="name">Cooper Chao</div>
+          <div className="name">Service Workers</div>
           <div className="image">
             <img src={NetflixLogoImg} alt="netflix" />
           </div>

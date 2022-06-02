@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://cooperchao.github.io/react_pwa_practise/static/css/main.7744d8d7.chunk.css",
-    "main.js": "https://cooperchao.github.io/react_pwa_practise/static/js/main.2269d1d1.chunk.js",
-    "main.js.map": "https://cooperchao.github.io/react_pwa_practise/static/js/main.2269d1d1.chunk.js.map",
+    "main.js": "https://cooperchao.github.io/react_pwa_practise/static/js/main.33872ee8.chunk.js",
+    "main.js.map": "https://cooperchao.github.io/react_pwa_practise/static/js/main.33872ee8.chunk.js.map",
     "runtime-main.js": "https://cooperchao.github.io/react_pwa_practise/static/js/runtime-main.22be4fe8.js",
     "runtime-main.js.map": "https://cooperchao.github.io/react_pwa_practise/static/js/runtime-main.22be4fe8.js.map",
     "static/js/2.4c2df669.chunk.js": "https://cooperchao.github.io/react_pwa_practise/static/js/2.4c2df669.chunk.js",
@@ -31,6 +31,6 @@
     "static/js/runtime-main.22be4fe8.js",
     "static/js/3.05794fad.chunk.js",
     "static/css/main.7744d8d7.chunk.css",
-    "static/js/main.2269d1d1.chunk.js"
+    "static/js/main.33872ee8.chunk.js"
   ]
 }
